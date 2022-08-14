@@ -101,8 +101,8 @@ var Keycode = UMap{
 	"f8":  66,
 	"f9":  67,
 	"f10": 68,
-	"f11": 69,
-	"f12": 70,
+	"f11": 87,
+	"f12": 88,
 	// more
 	"esc":     1,
 	"delete":  14,
@@ -112,7 +112,7 @@ var Keycode = UMap{
 	"control": 29,
 	"shift":   42,
 	"rshift":  54,
-	"space":   57,
+	"space":   57
 	//
 	"alt":     56,
 	"ralt":    3640,
@@ -124,6 +124,8 @@ var Keycode = UMap{
 	"down":  57424,
 	"left":  57419,
 	"right": 57421,
+	//
+	"scrlk": 70,
 }
 
 // Special is the special key map
